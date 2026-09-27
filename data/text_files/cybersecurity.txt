@@ -1,0 +1,4 @@
+Cybersecurity is a going to be one of the most in demand skills in future.
+
+The pace with which AI is booming, people are shipping code without understanding it thorougly, which leads to increased set of bugs and vulnerabilities.
+ 
